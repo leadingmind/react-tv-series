@@ -1,6 +1,6 @@
 {
-  "short_name": "TV Series Finder",
-  "name": "Welcome to an Awesome app for finding information about your favourite TV Series.",
+  "short_name": "Series Finder",
+  "name": "Find your series here",
   "icons": [
     {
       "src": "favicon.ico",
@@ -10,6 +10,6 @@
   ],
   "start_url": "./index.html",
   "display": "standalone",
-  "theme_color": "aliceblue",
-  "background_color": "#386cc1"
+  "theme_color": "#9fa8da",
+  "background_color": "#303f9f"
 }
